@@ -10,9 +10,11 @@
   },
   "dependencies": {
     "pinia": "^2.1.7",
+    "vite-plugin-pwa": "^0.20.5",
     "vue": "^3.4.29"
   },
   "devDependencies": {
+    "@vite-pwa/assets-generator": "^0.2.6",
     "@vitejs/plugin-vue": "^5.0.5",
     "vite": "^5.3.1"
   }
